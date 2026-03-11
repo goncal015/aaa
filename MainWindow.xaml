@@ -8,6 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Margin="59,29,585,293" Click="Button_Click"></Button>
-        <Label Content="Nádia&#xD;&#xA;"></Label>
+        <Label>
+            <Label Content="merda" RenderTransformOrigin="11.026,7.655" Height="37" Width="50"/>
+        </Label>
     </Grid>
 </Window>
